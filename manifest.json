@@ -1,12 +1,12 @@
-{"name": "Calc",
- "short_name": "Calc",
- "start_url": "/",
+{"name": "Sander Calculator",
+ "short_name": "Calculator",
+"start_url": "https://itssantastic.github.io/WebAppDev/",
  "background_color": "#6dcdb1",
  "theme_color": "#009578",
  "display": "standalone",
  "icons": [
  {
-   "src": "images/logo192.png",
+   "src": "images/logo.png",
    "sizes": "192x192",
    "type": "image/png"
  }
